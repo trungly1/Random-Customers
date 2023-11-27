@@ -26,9 +26,9 @@ This Python script generates random identity information, including first name, 
 
 ## Sample Output
 
-```plaintext
-Generated Identity:
-first_name: Alex
-last_name: Smith
-country: Germany
-age: 28
+``````plaintext
+| First Name | Last Name | Date of Birth | Address                                    | Email                        | Phone          | Height |
+|------------|-----------|---------------|--------------------------------------------|------------------------------|----------------|--------|
+| Emma       | Thompson  | Jan 15, 1985  | 123 Maple Street, Apt 4B, Cityville, State | emma.thompson@example.com   | (555) 123-4567 | 5'8"   |
+| Alex       | Rodriguez | Mar 22, 1990  | 789 Oak Avenue, Suite 12, Townsville, State | alex.rodriguez@example.com  | (555) 987-6543 | 6'1"   |
+| Olivia     | Collins   | Nov 10, 1982  | 456 Pine Lane, Unit 8C, Villagetown, State  | olivia.collins@example.com  | (555) 234-5678 | 5'5"   |```
